@@ -1,0 +1,2 @@
+Built from HeyPuter/everything at commit 4947e6f (src/3d).
+https://github.com/HeyPuter/everything/tree/4947e6f/src/3d
